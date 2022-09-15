@@ -1,0 +1,67 @@
+* {
+  font-family: "Roboto", sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+.hadder {
+  background-image: url("Chicago_GettyImages-1065188752.webp");
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.wrapper {
+  height: 100%;
+  margin: auto;
+  max-width: 1400px;
+}
+.logo {
+  text-transform: uppercase;
+  color: beige;
+}
+
+.first {
+  text-decoration: none;
+  color: antiquewhite;
+  margin-right: 10px;
+}
+.second {
+  text-decoration: none;
+  color: antiquewhite;
+  margin-right: 10px;
+}
+.third {
+  text-decoration: none;
+  color: antiquewhite;
+  margin-right: 10px;
+}
+.four {
+  text-decoration: none;
+  color: antiquewhite;
+  margin-right: 10px;
+}
+.five {
+  text-decoration: none;
+  color: antiquewhite;
+  margin-right: 10px;
+}
+.about {
+  height: 600px;
+  text-transform: uppercase;
+  font-family: "Roboto", sans-serif;
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.txt {
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.blox {
+  display: flex;
+  justify-content: center;
+}
